@@ -1,0 +1,8 @@
+Download Data Source:- https://bit.ly/2vfOeYh
+1. Average Voting percentage in the country.
+2. Average Male voting percentage
+3. Average Female voting percentage
+4. Winner from Each Constituency
+5. State wise maximum no. of seats won by a party
+6. Sort state on the basis of higest no. of votes for each Political Party
+7. State wise Total no. of votes given to "NONE of the above"
