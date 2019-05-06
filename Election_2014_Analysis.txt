@@ -1,4 +1,4 @@
-Download Data Source:- https://github.com/bipulshahi/Data_sets/blob/master/Elections_2014.rar
+Download Data Source:- https://bit.ly/2vHR48W
 
 1. Average Voting percentage in the country.
 2. Average Male voting percentage
